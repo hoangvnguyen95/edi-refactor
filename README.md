@@ -1,3 +1,3 @@
 # edi-refactor
--Before start : npm install \n
+-Before start : npm install 
 -Start: npm start
